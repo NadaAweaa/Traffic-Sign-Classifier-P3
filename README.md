@@ -1,11 +1,7 @@
 # Self-Driving Car Engineer Nanodegree
 ## Traffic Sign Recognition Calssifer 
 
-You can use the [editor on GitHub](https://github.com/NadaAweaa/Traffic-Sign-Classifier-P3/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-```markdown
+This project shows how to classify german traffic signs using a modified LeNet neuronal network. (See e.g. Yann LeCu - Gradiant-Based Learning Applied to Document Recognition)
 
 ### Rubric 
 The goals / steps of this project are the following:
