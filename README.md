@@ -1,7 +1,8 @@
 # Self-Driving Car Engineer Nanodegree
 ## Traffic Sign Recognition Calssifer 
 
-This project shows how to classify german traffic signs using a modified LeNet neuronal network. (See e.g. Yann LeCu - Gradiant-Based Learning Applied to Document Recognition)
+This project shows how to classify german traffic signs using a modified LeNet neuronal network. 
+(See e.g. [Yann LeCu - Gradiant-Based Learning Applied to Document Recognition](http://yann.lecun.com/exdb/publis/pdf/lecun-01a.pdf))
 
 ### Rubric 
 The goals / steps of this project are the following:
@@ -24,6 +25,7 @@ This project requires Python 3.5 and the following Python libraries installed:
    
 You can setup them all using the starter-kit:
   * [CarND Term1 Starter Kit](https://github.com/udacity/CarND-Term1-Starter-Kit)
+[Link to Traffic Signs Data](https://s3-us-west-1.amazonaws.com/udacity-selfdrivingcar/traffic-signs-data.zip) 
 
 
 ### Data Summery 
