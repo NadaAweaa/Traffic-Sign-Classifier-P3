@@ -25,6 +25,7 @@ This project requires Python 3.5 and the following Python libraries installed:
    
 You can setup them all using the starter-kit:
   * [CarND Term1 Starter Kit](https://github.com/udacity/CarND-Term1-Starter-Kit)
+  
 [Link to Traffic Signs Data](https://s3-us-west-1.amazonaws.com/udacity-selfdrivingcar/traffic-signs-data.zip) 
 
 
